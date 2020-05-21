@@ -30,6 +30,7 @@ $ git config --global user.name "dengqiuyang"
 $ git config --global user.email "huanghujiandqy@gmail.com"
 创建私钥
 $ ssh-keygen
+$ 添加id_rsa.pub到github
 测试
 $ ssh -T git@github.com
 ```
